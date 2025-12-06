@@ -23,7 +23,7 @@ if (isset($_SESSION['role'])) {
 </head>
 <body class="bg-light d-flex align-items-center" style="height:100vh;">
   <div class="container text-center">
-    <h2 class="fw-bold mb-4">Selamat Datang di SIAKAD UNRI</h2>
+    <h2 class="fw-bold mb-4">Selamat Datang di SIAKAD UNRI GACOR</h2>
     <p class="text-muted mb-5">Silakan pilih login sebagai Admin atau Mahasiswa</p>
     <div class="d-flex justify-content-center gap-3">
       <a href="admin/login.php" class="btn btn-primary px-4 py-2">Login Admin</a>
